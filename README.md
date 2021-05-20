@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Runeitude
+- 👀 I’m interested in video games and tabletop games
+- 🌱 I’m currently learning Delphi for work (Considering C# for home projects)
+- 💞️ I’m looking to collaborate on D&D tools
+- 📫 How to reach me: Twitter.com/Runeitude
